@@ -1,0 +1,310 @@
+[
+    {
+        "day": "dimanche",
+        "animes": [
+            {
+                "title": "09:00 - One Piece",
+                "description": "",
+                "editor": "CR/ADN",
+                "url": "https://anilist.co/anime/21/One-Piece/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21-tXMN3Y20PIL9.jpg"
+            },
+            {
+                "title": "10:30 - Boruto: Naruto Next Generations",
+                "description": "",
+                "editor": "ADN",
+                "url": "https://anilist.co/anime/97938/Boruto-Naruto-Next-Generations/",
+                "img": "https://cdn.myanimelist.net/images/anime/9/84460l.jpg"
+            },
+            {
+                "title": "14:30 - Sankaku Mado no Sotogawa wa Yoru",
+                "description": "The Night Beyond the Tricornered Window",
+                "editor": "CR",
+                "url": "https://anilist.co/anime/126897/Sankaku-Mado-no-Sotogawa-wa-Yoru/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx126897-at1dtnI047XP.jpg"
+            },
+            {
+                "title": "15:00 - Mieruko-chan",
+                "description": "",
+                "editor": "WKN",
+                "url": "https://anilist.co/anime/131083/Mierukochan/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131083-fMWFyOFgp6vb.png"
+            },
+            {
+                "title": "15:30 - Tesla Note",
+                "description": "",
+                "editor": "WKN",
+                "url": "https://anilist.co/anime/132071/Tesla-Note/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132071-Cza8y6VQO75M.png"
+            },
+            {
+                "title": "16:45 - Kimetsu no Yaiba 2",
+                "description": "Demon Slayer: Kimetsu no Yaiba 2",
+                "editor": "CR/WKN",
+                "url": "https://anilist.co/anime/129874/Kimetsu-no-Yaiba-2/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129874-R5sdioCVMKwe.png"
+            },
+            {
+                "title": "17:00 - Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+                "description": "Mushoku Tensei: Jobless Reincarnation Part 2",
+                "editor": "WKN",
+                "url": "https://anilist.co/anime/127720/Mushoku-Tensei-Isekai-Ittara-Honki-Dasu-Part-2/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127720-ADJgIrUVMdU9.jpg"
+            },
+            {
+                "title": "18:05 - Tsuki to Laika to Nosferatu",
+                "description": "Irina: The Vampire Cosmonaut",
+                "editor": "WKN",
+                "url": "https://anilist.co/anime/131019/Tsuki-to-Laika-to-Nosferatu/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131019-xaTtBN2G6BrO.jpg"
+            },
+            {
+                "title": "23:00 - Yuuki Yuuna wa Yuusha de Aru: Dai-Mankai no Shou",
+                "description": "Yuki Yuna is a Hero: The Great Mankai Chapter",
+                "editor": "fansub",
+                "url": "https://anilist.co/anime/122292/Yuuki-Yuuna-wa-Yuusha-de-Aru-DaiMankai-no-Shou/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx122292-8oLPI6hdBC0E.jpg"
+            }
+        ]
+    },
+    {
+        "day": "lundi",
+        "animes": [
+            {
+                "title": "16:00 - Kyuuketsuki Sugu Shinu",
+                "description": "The Vampire Dies in No Time",
+                "editor": "WKN",
+                "url": "https://anilist.co/anime/118103/Kyuuketsuki-Sugu-Shinu/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx118103-sYpBuMX1JHJN.jpg"
+            },
+            {
+                "title": "16:00 - Gyakuten Sekai no Denchi Shoujo",
+                "description": "RUMBLE GARANNDOLL",
+                "editor": "WKN",
+                "url": "https://anilist.co/anime/131878/Gyakuten-Sekai-no-Denchi-Shoujo/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131878-rTmwgnanBPG4.jpg"
+            },
+            {
+                "title": "18:30 - Kyoukai Senki",
+                "description": "AMAIM Warrior at the Borderline",
+                "editor": "WKN",
+                "url": "https://anilist.co/anime/131005/Kyoukai-Senki/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131005-khLbX1nMCBxB.jpg"
+            },
+            {
+                "title": "20:30 - Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei",
+                "description": "The Fruit of Evolution: Before I Knew It, My Life Had It Made",
+                "editor": "CR",
+                "url": "https://anilist.co/anime/129068/Shinka-no-Mi-Shiranai-Uchi-ni-Kachigumi-Jinsei/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129068-CLyk6Kh2nBQl.jpg"
+            }
+        ]
+    },
+    {
+        "day": "mardi",
+        "animes": [
+            {
+                "title": "16:00 - Toushinki G's Frame",
+                "description": "Ancient Girl’s Frame",
+                "editor": "WKN",
+                "url": "https://anilist.co/anime/126393/Toushinki-Gs-Frame/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx126393-PZNOgphwHn4J.jpg"
+            },
+            {
+                "title": "18:00 - takt op.Destiny",
+                "description": "",
+                "editor": "CR",
+                "url": "https://anilist.co/anime/131565/takt-opDestiny/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131565-3W2YEX6V3K3i.jpg"
+            },
+            {
+                "title": "18:30 - Deep Insanity: THE LOST CHILD",
+                "description": "",
+                "editor": "WKN",
+                "url": "https://anilist.co/anime/136947/Deep-Insanity-THE-LOST-CHILD/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136947-ZtUWswedpbR6.jpg"
+            },
+            {
+                "title": "18:30 - Kaginado",
+                "description": "",
+                "editor": "CR/WKN",
+                "url": "https://anilist.co/anime/132528/Kaginado/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132528-rIUN5MRBPGy9.png"
+            }
+        ]
+    },
+    {
+        "day": "mercredi",
+        "animes": [
+            {
+                "title": "16:30 - Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru",
+                "description": "The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat",
+                "editor": "CR/ADN",
+                "url": "https://anilist.co/anime/129898/Sekai-Saikou-no-Ansatsusha-Isekai-Kizoku-ni-Tensei-suru/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129898-FRUzDtPhRigt.jpg"
+            },
+            {
+                "title": "16:30 - Shin no Nakama janai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita",
+                "description": "Banished from the Hero’s Party, I Decided to Live a Quiet Life in the Countryside",
+                "editor": "WKN",
+                "url": "https://anilist.co/anime/126213/Shin-no-Nakama-janai-to-Yuusha-no-Party-wo-Oidasareta-node-Henkyou-de-Slow-Life-suru-Koto-ni-shimashita/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx126213-cXF3hsCcOipI.jpg"
+            },
+            {
+                "title": "16:30 - Puraore!: PRIDE OF ORANGE",
+                "description": "PuraOre! ~Pride of Orange~",
+                "editor": "ADN",
+                "url": "https://anilist.co/anime/126793/Puraore-PRIDE-OF-ORANGE/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx126793-L29Tdzt6NDeQ.jpg"
+            },
+            {
+                "title": "17:00 - Heike Monogatari",
+                "description": "The Heike Story",
+                "editor": "WKN",
+                "url": "https://anilist.co/anime/138714/Heike-Monogatari/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138714-62nqzAjypWfK.jpg"
+            },
+            {
+                "title": "18:30 - Muv-Luv Alternative",
+                "description": "",
+                "editor": "CR",
+                "url": "https://anilist.co/anime/112716/MuvLuv-Alternative/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112716-4mMkZtsR3MIn.jpg"
+            }
+        ]
+    },
+    {
+        "day": "jeudi",
+        "animes": [
+            {
+                "title": "15:30 - Scarlet Nexus",
+                "description": "",
+                "editor": "WKN",
+                "url": "https://anilist.co/anime/131150/SCARLET-NEXUS/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131150-YjdcqAvbHfxw.png"
+            },
+            {
+                "title": "16:30 - Sakugan",
+                "description": "",
+                "editor": "CR",
+                "url": "https://anilist.co/anime/108987/Sakugan/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108987-rdPglVthrZP2.jpg"
+            },
+            {
+                "title": "17:00 - Lie Huo Jiao Chou",
+                "description": "Drowning Sorrows in Raging Fire",
+                "editor": "WKN",
+                "url": "hhttps://anilist.co/anime/126368/Lie-Huo-Jiao-Chou/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx126368-HY71hBzFjp8u.png"
+            },
+            {
+                "title": "18:30 - Shiroi Suna no Aquatope",
+                "description": "The aquatope on white sand",
+                "editor": "CR",
+                "url": "https://anilist.co/anime/128545/Shiroi-Suna-no-Aquatope/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128545-8ooIQffo7elA.png"
+            },
+            {
+                "title": "19:25 - Ousama Ranking",
+                "description": "Ranking of Kings",
+                "editor": "WKN",
+                "url": "https://anilist.co/anime/113717/Ousama-Ranking/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113717-WGzAyw27y9sI.jpg"
+            },
+            {
+                "title": "22:00 - Platinum End",
+                "description": "",
+                "editor": "CR/WKN/ADN",
+                "url": "https://anilist.co/anime/127401/Platinum-End/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127401-fVKVbuIE5W5Q.jpg"
+            }
+        ]
+    },
+    {
+        "day": "vendredi",
+        "animes": [
+            {
+                "title": "10:00 - Can Ci Pin: Fangzhu Xingkong",
+                "description": "The Defective",
+                "editor": "WKN",
+                "url": "https://anilist.co/anime/115833/Can-Ci-Pin-Fangzhu-Xingkong/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx115833-iM8tDLlDAePL.png"
+            },
+            {
+                "title": "16:00 - SELECTION PROJECT",
+                "description": "",
+                "editor": "WKN",
+                "url": "https://anilist.co/anime/126790/SELECTION-PROJECT/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx126790-n7ko65bBCMVI.jpg"
+            },
+            {
+                "title": "18:30 - Visual Prison",
+                "description": "",
+                "editor": "WKN",
+                "url": "https://anilist.co/anime/131584/Visual-Prison/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131584-NTqZKbKvGEsK.jpg"
+            },
+            {
+                "title": "19:53 - Taishou Otome Otogibanashi",
+                "description": "Taisho Otome Fairy Tale",
+                "editor": "WKN",
+                "url": "https://anilist.co/anime/127412/Taishou-Otome-Otogibanashi/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127412-dpHXV2X9tskV.jpg"
+            },
+            {
+                "title": "23:00 - Komi-san wa, Komyushou desu.",
+                "description": "Komi Can’t Communicate",
+                "editor": "fansub/NF",
+                "url": "https://anilist.co/anime/133965/Komisan-wa-Komyushou-desu/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx133965-1jyaEkgXQW8a.jpg"
+            }
+        ]
+    },
+    {
+        "day": "samedi",
+        "animes": [
+            {
+                "title": "12:00 - Blue Period",
+                "description": "",
+                "editor": "NF/fansub",
+                "url": "https://anilist.co/anime/128705/Blue-Period/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128705-2PzZbN52XCGI.jpg"
+            },
+            {
+                "title": "16:30 - Saihate no Paladin",
+                "description": "The Faraway Paladin",
+                "editor": "CR",
+                "url": "https://anilist.co/anime/132473/Saihate-no-Paladin/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132473-yp2MbmaxbHg1.jpg"
+            },
+            {
+                "title": "18:30 - 86: Eighty Six Part 2",
+                "description": "",
+                "editor": "CR",
+                "url": "https://anilist.co/anime/131586/86-Eighty-Six-Part-2/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131586-k0X2kVpUOkqX.jpg"
+            },
+            {
+                "title": "19:00 - Senpai ga Uzai Kouhai no Hanashi",
+                "description": "My Senpai is Annoying",
+                "editor": "WKN",
+                "url": "https://anilist.co/anime/120646/Senpai-ga-Uzai-Kouhai-no-Hanashi/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120646-3GUSMpqx0mVw.jpg"
+            },
+            {
+                "title": "19:26 - MUTEKING THE Dancing HERO",
+                "description": "",
+                "editor": "WKN",
+                "url": "https://anilist.co/anime/109745/MUTEKING-THE-Dancing-HERO/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109745-W4NnQxYpGJJO.jpg"
+            },
+            {
+                "title": "20:30 - World Trigger 3rd Season",
+                "description": "",
+                "editor": "CR/ADN",
+                "url": "https://anilist.co/anime/127400/World-Trigger-3rd-Season/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127400-m2xz2qDVqQwL.jpg"
+            }
+        ]
+    }
+]
