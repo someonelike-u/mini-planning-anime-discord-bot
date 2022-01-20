@@ -21,11 +21,11 @@ const sendAnimesForToday = (msg, day) => {
 
 const purge = (msg) => {
     if (msg instanceof Discord.Client) {
-        msg.channels.get('606778861757136897').fetchMessages().then(messages => {
+        msg.channels.get('606778861757136897').messages.fetch().then(messages => {
             msg.channels.get('606778861757136897').bulkDelete(messages);
         });
     } else {
-        msg.channel.fetchMessages().then(messages => {
+        msg.channel.messages.fetch().then(messages => {
             msg.channel.bulkDelete(messages);
         });
     }
