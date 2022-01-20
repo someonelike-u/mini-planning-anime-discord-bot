@@ -3,7 +3,7 @@ const Discord = require('discord.js');
 
 const sendAnimesForToday = (msg, day) => {
     planning[day].animes.forEach(anime => {
-        const embed = new Discord.RichEmbed()
+        const embed = new Discord.MessageEmbed()
             .setTitle(anime.title)
             .setThumbnail(anime.img);
         if (anime.description === '') {
@@ -12,9 +12,9 @@ const sendAnimesForToday = (msg, day) => {
             embed.setDescription('*' + anime.description + '*\n' + getEditorLogos(anime.editor) + '[Voir infos](' + anime.url + ')');
         }
         if (msg instanceof Discord.Client) {
-            msg.channels.get('606778861757136897').send(embed);
+            msg.channels.get('606778861757136897').send({embeds: [embed]});
         } else {
-            msg.channel.send(embed);
+            msg.channel.send({embeds: [embed]});
         }
     });
 }

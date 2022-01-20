@@ -32,7 +32,7 @@ client.on('ready', () => {
   }
 });
 
-client.on('message', msg => {
+client.on('messageCreate', msg => {
   if (msg.content === '!init') {
     if (scheduler) {
       msg.reply('La planification est déjà activée !');
