@@ -1,6 +1,6 @@
 const utils = require('./utils.js');
-// const auth = require('./auth.json');
-const client = new utils.Discord.Client();
+const auth = require('./auth.json');
+const client = new utils.Discord.Client({ intents: ['GUILDS', 'GUILD_MESSAGES'] });
 const schedule = require('cron').CronJob;
 
 let scheduler;
