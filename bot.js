@@ -1,15 +1,12 @@
 const utils = require('./utils.js');
-// const auth = require('./auth.json');
 const client = new utils.Discord.Client({ intents: ['GUILDS', 'GUILD_MESSAGES'] });
 const schedule = require('cron').CronJob;
 
+const BOT_TOKEN = process.env.BOT_TOKEN || require('./data.json').BOT_TOKEN;
+const CHANNEL_ID = process.env.CHANNEL_ID || require('./data.json').CHANNEL_ID;
 let scheduler;
 
-// For local/dev mode
-// client.login(auth.token);
-
-// For prod mode
-client.login(process.env.BOT_TOKEN);
+client.login(BOT_TOKEN);
 
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
@@ -21,7 +18,7 @@ client.on('ready', () => {
     console.log('[INFO] Planification activée !');
     scheduler = new schedule('0 0 1-31 0-11 0-6', () => {
       utils.purge(client);
-      client.channels.get('606778861757136897').send('Aujourd\'hui, on est **' + utils.planning[new Date().getDay()].day + '** :');
+      client.channels.cache.get(CHANNEL_ID).send('Aujourd\'hui, on est **' + utils.planning[new Date().getDay()].day + '** :');
       utils.sendAnimesForToday(client, new Date().getDay());
     }, () => {
       /* This function is executed when the job stops */

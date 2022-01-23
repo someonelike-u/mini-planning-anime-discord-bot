@@ -1,6 +1,8 @@
 const planning = require('./current-planning.json');
 const Discord = require('discord.js');
 
+const CHANNEL_ID = process.env.CHANNEL_ID || require('./data.json').CHANNEL_ID;
+
 const sendAnimesForToday = (msg, day) => {
     planning[day].animes.forEach(anime => {
         const embed = new Discord.MessageEmbed()
@@ -12,7 +14,7 @@ const sendAnimesForToday = (msg, day) => {
             embed.setDescription('*' + anime.description + '*\n' + getEditorLogos(anime.editor) + '[Voir infos](' + anime.url + ')');
         }
         if (msg instanceof Discord.Client) {
-            msg.channels.get('606778861757136897').send({embeds: [embed]});
+            msg.channels.cache.get(CHANNEL_ID).send({embeds: [embed]});
         } else {
             msg.channel.send({embeds: [embed]});
         }
@@ -21,8 +23,8 @@ const sendAnimesForToday = (msg, day) => {
 
 const purge = (msg) => {
     if (msg instanceof Discord.Client) {
-        msg.channels.get('606778861757136897').messages.fetch().then(messages => {
-            msg.channels.get('606778861757136897').bulkDelete(messages);
+        msg.channels.get(CHANNEL_ID).messages.fetch().then(messages => {
+            msg.channels.get(CHANNEL_ID).bulkDelete(messages);
         });
     } else {
         msg.channel.messages.fetch().then(messages => {
