@@ -23,8 +23,8 @@ const sendAnimesForToday = (msg, day) => {
 
 const purge = (msg) => {
     if (msg instanceof Discord.Client) {
-        msg.channels.get(CHANNEL_ID).messages.fetch().then(messages => {
-            msg.channels.get(CHANNEL_ID).bulkDelete(messages);
+        msg.channels.cache.get(CHANNEL_ID).messages.fetch().then(messages => {
+            msg.channels.cache.get(CHANNEL_ID).bulkDelete(messages);
         });
     } else {
         msg.channel.messages.fetch().then(messages => {

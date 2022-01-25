@@ -16,7 +16,7 @@ client.on('ready', () => {
   console.log('[INFO] Bot started !');
   if (!scheduler) {
     console.log('[INFO] Planification activée !');
-    scheduler = new schedule('0 0 1-31 0-11 0-6', () => {
+    scheduler = new schedule('0 0 0 * * *', () => {
       utils.purge(client);
       client.channels.cache.get(CHANNEL_ID).send('Aujourd\'hui, on est **' + utils.planning[new Date().getDay()].day + '** :');
       utils.sendAnimesForToday(client, new Date().getDay());
@@ -38,7 +38,7 @@ client.on('messageCreate', msg => {
       msg.channel.send('Aujourd\'hui on est **' + utils.planning[new Date().getDay()].day + '** :');
       utils.sendAnimesForToday(msg, new Date().getDay());
 
-      scheduler = new schedule('0 0 1-31 0-11 0-6', () => {
+      scheduler = new schedule('0 0 0 1-31 0-11 0-6', () => {
         utils.purge(msg);
         msg.channel.send('Aujourd\'hui, on est **' + utils.planning[new Date().getDay()].day + '** :');
         utils.sendAnimesForToday(msg, new Date().getDay());
@@ -88,6 +88,6 @@ client.on('messageCreate', msg => {
     utils.listAllCommands(msg);
   } else if (msg.content === '!purge') {
     utils.purge(msg);
-    msg.reply('Tous les messages ont été effacés !').then(toDelete => toDelete.delete(5000));
+    console.log('[INFO] Messages supprimés')
   }
 });
