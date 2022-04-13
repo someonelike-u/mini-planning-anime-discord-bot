@@ -3,6 +3,27 @@
         "day": "dimanche",
         "animes": [
             {
+                "title": "? - Black★★Rock Shooter: DAWN FALL",
+                "description": "",
+                "editor": "fansub",
+                "url": "https://anilist.co/anime/139303/BlackRock-Shooter-DAWN-FALL/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139303-8IeaAGasu2Bc.jpg"
+            },
+            {
+                "title": "? - Machikado Mazoku: 2-Choume",
+                "description": "The Demon Girl Next Door Season 2",
+                "editor": "fansub",
+                "url": "https://anilist.co/anime/123330/Machikado-Mazoku-2Choume/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx123330-AU2jllC75uSE.png"
+            },
+            {
+                "title": "07:30 - Shenmue the Animation",
+                "description": "",
+                "editor": "CR",
+                "url": "https://anilist.co/anime/123752/Shenmue-the-Animation/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx123752-T6yktnBk8AeY.jpg"
+            },
+            {
                 "title": "09:00 - One Piece",
                 "description": "",
                 "editor": "CR/ADN",
@@ -10,46 +31,32 @@
                 "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21-tXMN3Y20PIL9.jpg"
             },
             {
-                "title": "10:30 - Boruto: Naruto Next Generations",
+                "title": "10:00 - Boruto: Naruto Next Generations",
                 "description": "",
                 "editor": "ADN",
                 "url": "https://anilist.co/anime/97938/Boruto-Naruto-Next-Generations/",
                 "img": "https://cdn.myanimelist.net/images/anime/9/84460l.jpg"
             },
             {
-                "title": "15:00 - Baraou no Souretsu",
+                "title": "14:00 - Kono Healer, Mendokusai",
+                "description": "Don’t Hurt Me, My Healer!",
+                "editor": "CR",
+                "url": "https://anilist.co/anime/132351/Kono-Healer-Mendokusai/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132351-1zyxbcJ86aoB.png"
+            },
+            {
+                "title": "15:30 - Otomege Sekai wa Mob ni Kibishii Sekai desu",
+                "description": "Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs",
+                "editor": "CR",
+                "url": "https://anilist.co/anime/142074/Otomege-Sekai-wa-Mob-ni-Kibishii-Sekai-desu/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142074-pHe4bX791PJh.jpg"
+            },
+            {
+                "title": "16:00 - Baraou no Souretsu",
                 "description": "Requiem of the Rose King",
-                "editor": "WKN",
+                "editor": "CR/WKN",
                 "url": "https://anilist.co/anime/124060/Baraou-no-Souretsu/",
                 "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124060-gPb5UWbdQgj9.jpg"
-            },
-            {
-                "title": "15:30 - Futsal Boys!!!!!",
-                "description": "",
-                "editor": "WKN",
-                "url": "https://anilist.co/anime/112719/Futsal-Boys/",
-                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112719-DZk18Cu69HcD.png"
-            },
-            {
-                "title": "17:00 - Sasaki to Miyano",
-                "description": "Sasaki and Miyano",
-                "editor": "WKN",
-                "url": "https://anilist.co/anime/126288/Sasaki-to-Miyano/",
-                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx126288-LDuOrj9RFv3E.jpg"
-            },
-            {
-                "title": "17:00 - Kimetsu no Yaiba: Yuukaku-hen",
-                "description": "Demon Slayer: Kimetsu no Yaiba Entertainment District Arc",
-                "editor": "CR/WKN",
-                "url": "https://anilist.co/anime/142329/Kimetsu-no-Yaiba-Yuukakuhen/",
-                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142329-Oa6NT07c5KOn.jpg"
-            },
-            {
-                "title": "21:45 - Shingeki no Kyojin: The Final Season Part 2",
-                "description": "Attack on Titan Final Season Part 2",
-                "editor": "CR/WKN",
-                "url": "https://anilist.co/anime/131681/Shingeki-no-Kyojin-The-Final-Season-Part-2/",
-                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131681-ODIRpBIbR5Eu.jpg"
             }
         ]
     },
@@ -57,32 +64,25 @@
         "day": "lundi",
         "animes": [
             {
-                "title": "14:30 - Tribe Nine",
-                "description": "",
-                "editor": "WKN",
-                "url": "https://anilist.co/anime/139804/TRIBE-NINE/",
-                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139804-kpZVaUQvisjl.jpg"
-            },
-            {
-                "title": "16:30 - Sabikui Bisco",
-                "description": "",
-                "editor": "CR/WKN",
-                "url": "https://anilist.co/anime/130591/Sabikui-Bisco/",
-                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130591-9O1cf7u6SfYa.jpg"
-            },
-            {
-                "title": "18:00 - Princess Connect! Re:Dive Season 2",
+                "title": "16:30 - Healer Girl",
                 "description": "",
                 "editor": "CR",
-                "url": "https://anilist.co/anime/122808/Princess-Connect-ReDive-Season-2/",
-                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx122808-TUKyfYWKmOX3.jpg"
+                "url": "https://anilist.co/anime/133412/Healer-Girl/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx133412-C2WyI3mKHiO7.jpg"
             },
             {
-                "title": "19:00 - Gensou Sangokushi: Tengen Reishinki",
-                "description": "Fantasia Sango - Realm of Legends",
-                "editor": "WKN",
-                "url": "https://anilist.co/anime/137247/Gensou-Sangokushi-Tengen-Reishinki/",
-                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137247-JAj22GZfrbUk.png"
+                "title": "18:00 - Kyoukai Senki Part 2",
+                "description": "AMAIM Warrior at the Borderline Part 2",
+                "editor": "CR/WKN",
+                "url": "https://anilist.co/anime/143203/Kyoukai-Senki-Part-2/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143203-WhXWagWXSg3Z.jpg"
+            },
+            {
+                "title": "20:30 - Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season",
+                "description": "Ascendance of a Bookworm Season 3",
+                "editor": "CR",
+                "url": "https://anilist.co/anime/121176/Honzuki-no-Gekokujou-Shisho-ni-Naru-Tame-ni-wa-Shudan-wo-Erandeiraremasen-3rd-Season/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121176-qWobMmSf761W.jpg"
             }
         ]
     },
@@ -90,25 +90,25 @@
         "day": "mardi",
         "animes": [
             {
-                "title": "15:30 - Tensai Ouji no Akaji Kokka Saisei Jutsu",
-                "description": "The Genius Prince's Guide to Raising a Nation Out of Debt",
-                "editor": "WKN",
-                "url": "https://anilist.co/anime/129190/Tensai-Ouji-no-Akaji-Kokka-Saisei-Jutsu/",
-                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129190-UnaPbNhTCTOR.jpg"
+                "title": "16:30 - Yuusha, Yamemasu",
+                "description": "I’m Quitting Heroing",
+                "editor": "ADN",
+                "url": "https://anilist.co/anime/140457/Yuusha-Yamemasu/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140457-HWfDjbrDk6BY.jpg"
             },
             {
-                "title": "16:30 - Kenja no Deshi wo Nanoru Kenja",
-                "description": "She Professed Herself Pupil of the Wise Man",
-                "editor": "WKN",
-                "url": "https://anilist.co/anime/119056/Kenja-no-Deshi-wo-Nanoru-Kenja/",
-                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx119056-v9Ls3eKyf0Nf.png"
-            },
-            {
-                "title": "19:30 - Fantasy Bishoujo Juniku Ojisan to",
-                "description": "Life With an Ordinary Guy Who Reincarnated Into a Total Fantasy Knockout",
+                "title": "17:00 - Tomodachi Game",
+                "description": "",
                 "editor": "CR",
-                "url": "https://anilist.co/anime/134252/Fantasy-Bishoujo-Juniku-Ojisan-to/",
-                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx134252-6pwG0YdI20aQ.jpg"
+                "url": "https://anilist.co/anime/141014/Tomodachi-Game/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141014-eRFDPNpf3hI7.jpg"
+            },
+            {
+                "title": "18:00 - Kaginado Season 2",
+                "description": "",
+                "editor": "CR/WKN",
+                "url": "https://anilist.co/anime/143150/Kaginado-Season-2/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143150-yYb9yimEQocm.png"
             }
         ]
     },
@@ -116,39 +116,39 @@
         "day": "mercredi",
         "animes": [
             {
-                "title": "16:00 - Orient",
+                "title": "05:00 - BIRDIE WING: Golf Girls' Story",
                 "description": "",
                 "editor": "CR",
-                "url": "https://anilist.co/anime/128034/ORIENT/",
-                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128034-PHcAWDtmPuAK.jpg"
+                "url": "https://anilist.co/anime/140830/BIRDIE-WING-Golf-Girls-Story/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140830-hHqRY63VwOp2.jpg"
             },
             {
-                "title": "16:15 - Leadale no Daichi nite",
-                "description": "In the Land of Leadale",
+                "title": "14:00 - Shijou Saikyou no Daimaou, Murabito A ni Tensei suru",
+                "description": "The Greatest Demon Lord Is Reborn as a Typical Nobody",
                 "editor": "CR",
-                "url": "https://anilist.co/anime/130166/Leadale-no-Daichi-nite/",
-                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130166-xd6sOH38BZUv.png"
+                "url": "https://anilist.co/anime/130586/Shijou-Saikyou-no-Daimaou-Murabito-A-ni-Tensei-suru/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130586-vzoz4X37RZwc.jpg"
             },
             {
-                "title": "16:30 - Hakozume: Kouban Joshi no Gyakushuu",
-                "description": "Hakozume: Kouban Joshi no Gyakushuu",
-                "editor": "WKN",
-                "url": "https://anilist.co/anime/137312/Hakozume-Kouban-Joshi-no-Gyakushuu/",
-                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137312-hlWRtCt25oMg.jpg"
+                "title": "15:00 - Tate no Yuusha no Nariagari Season 2",
+                "description": "The Rising of the Shield Hero Season 2",
+                "editor": "CR",
+                "url": "https://anilist.co/anime/111321/Tate-no-Yuusha-no-Nariagari-Season-2/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b111321-3MFjZgG1muls.jpg"
             },
             {
-                "title": "16:45 - Koroshi Ai",
-                "description": "Love of Kill",
-                "editor": "CR/ADN",
-                "url": "https://anilist.co/anime/127050/Koroshi-Ai/",
-                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127050-kJ3pIbJzLDYT.png"
+                "title": "15:30 - RPG Fudousan",
+                "description": "RPG Real Estate",
+                "editor": "CR",
+                "url": "https://anilist.co/anime/130319/RPG-Fudousan/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130319-XgRmoOIIg9Sx.jpg"
             },
             {
-                "title": "18:30 - Tokyo 24-ku",
-                "description": "Tokyo 24th Ward",
-                "editor": "CR/WKN",
-                "url": "https://anilist.co/anime/140643/Tokyo-24ku/",
-                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140643-RpKlGdwDa7r7.jpg"
+                "title": "17:30 - Deaimon",
+                "description": "Deaimon: Recipe for Happiness",
+                "editor": "CR",
+                "url": "https://anilist.co/anime/132532/Deaimon/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132532-DwjK9wnlSaKl.png"
             }
         ]
     },
@@ -156,25 +156,39 @@
         "day": "jeudi",
         "animes": [
             {
-                "title": "16:30 - Arifureta Shokugyou de Sekai Saikyou 2nd season",
-                "description": "Arifureta: From Commonplace to World's Strongest Season 2",
-                "editor": "WKN",
-                "url": "https://anilist.co/anime/112323/Arifureta-Shokugyou-de-Sekai-Saikyou-2nd-season/",
-                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112323-C6nlP84x8jH8.png"
-            },
-            {
-                "title": "18:25 - Ousama Ranking",
-                "description": "Ranking of Kings",
-                "editor": "CR/WKN",
-                "url": "https://anilist.co/anime/113717/Ousama-Ranking/",
-                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113717-WGzAyw27y9sI.jpg"
-            },
-            {
-                "title": "22:00 - Platinum End",
+                "title": "01:00 - Estab-Life: Great Escape",
                 "description": "",
-                "editor": "CR/WKN/ADN",
-                "url": "https://anilist.co/anime/127401/Platinum-End/",
-                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127401-fVKVbuIE5W5Q.jpg"
+                "editor": "CR",
+                "url": "https://anilist.co/anime/143289/EstabLife-Great-Escape/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143289-iVgJWY0c8EVe.jpg"
+            },
+            {
+                "title": "15:30 - Shachiku-san wa Youjo Yuurei ni Iyasaretai.",
+                "description": "Miss Shachiku and the Little Baby Ghost",
+                "editor": "CR",
+                "url": "https://anilist.co/anime/135384/Shachikusan-wa-Youjo-Yuurei-ni-Iyasaretai/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx135384-VYEyoOu3xNB2.jpg"
+            },
+            {
+                "title": "16:30 - Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu",
+                "description": "Skeleton Knight in Another World",
+                "editor": "CR",
+                "url": "https://anilist.co/anime/132474/Gaikotsu-Kishisama-Tadaima-Isekai-e-Odekakechuu/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132474-J2ECHSPkfb9g.jpg"
+            },
+            {
+                "title": "17:00 - Heroine Tarumono!: Kiraware Heroine to Naisho no Oshigoto",
+                "description": "Heroines Run the Show",
+                "editor": "CR",
+                "url": "https://anilist.co/anime/138459/Heroine-Tarumono-Kiraware-Heroine-to-Naisho-no-Oshigoto/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138459-x6ZOf8IjgGbm.jpg"
+            },
+            {
+                "title": "20:45 - Mahoutsukai Reimeiki",
+                "description": "The Dawn of the Witch",
+                "editor": "CR",
+                "url": "https://anilist.co/anime/133175/Mahoutsukai-Reimeiki/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx133175-M7SRPRqC72lA.jpg"
             }
         ]
     },
@@ -182,32 +196,46 @@
         "day": "vendredi",
         "animes": [
             {
-                "title": "15:00 - Slow Loop",
+                "title": "01:00 - Ginga Eiyuu Densetsu: Die Neue These - Gekitotsu",
+                "description": "Legend of the Galactic Heroes: Die Neue These - Collision",
+                "editor": "ADN",
+                "url": "https://anilist.co/anime/124032/Ginga-Eiyuu-Densetsu-Die-Neue-These--Gekitotsu/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124032-li8JjJdJvDVb.png"
+            },
+            {
+                "title": "15:30 - Date A Live IV",
                 "description": "",
-                "editor": "WKN",
-                "url": "https://anilist.co/anime/127549/Slow-Loop/",
-                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127549-fr324YPdXb3D.jpg"
-            },
-            {
-                "title": "17:30 - Vanitas no Carte Part 2",
-                "description": "The Case Study of Vanitas Part 2",
                 "editor": "CR/WKN",
-                "url": "https://anilist.co/anime/135136/Vanitas-no-Carte-Part-2/",
-                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx135136-wVMApb1FEmkz.jpg"
+                "url": "https://anilist.co/anime/116605/Date-A-Live-IV/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116605-uzDakXnaZ1OW.jpg"
             },
             {
-                "title": "18:00 - Dolls' Frontline",
-                "description": "Girls' Frontline",
-                "editor": "WKN",
-                "url": "https://anilist.co/anime/128828/Dolls-Frontline/",
-                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128828-Lhulr8Niitey.png"
-            },
-            {
-                "title": "19:30 - Shuumatsu no Harem",
-                "description": "World's End Harem",
+                "title": "16:30 - Koi wa Sekai Seifuku no Ato de",
+                "description": "Love After World Domination",
                 "editor": "CR",
-                "url": "https://anilist.co/anime/118465/Shuumatsu-no-Harem/",
-                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx118465-EGB0OajA5rei.jpg"
+                "url": "https://anilist.co/anime/132010/Koi-wa-Sekai-Seifuku-no-Ato-de/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132010-s0o3Rg0XvDXl.jpg"
+            },
+            {
+                "title": "18:30 - Kaguya-sama wa Kokurasetai: Ultra Romantic",
+                "description": "Kaguya-sama: Love is War -Ultra Romantic-",
+                "editor": "CR/WKN",
+                "url": "https://anilist.co/anime/125367/Kaguyasama-wa-Kokurasetai-Ultra-Romantic/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx125367-bl5vGalMH2cC.png"
+            },
+            {
+                "title": "18:45 - Rikei ga Koi ni Ochita no de Shoumei shitemita. Heart",
+                "description": "Science Fell in Love, So I Tried to Prove It r=1-sinθ",
+                "editor": "CR",
+                "url": "https://anilist.co/anime/125124/Rikei-ga-Koi-ni-Ochita-no-de-Shoumei-shitemita-Heart/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx125124-rjv9azFLjEG4.jpg"
+            },
+            {
+                "title": "20:15 - https://anilist.co/anime/137281/Aharensan-wa-Hakarenai/",
+                "description": "Aharen-san Is Indecipherable",
+                "editor": "CR",
+                "url": "https://anilist.co/anime/137281/Aharensan-wa-Hakarenai/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137281-xdjPqk8SIv69.png"
             },
             {
                 "title": "20:30 - Cue!",
@@ -215,6 +243,13 @@
                 "editor": "CR",
                 "url": "https://anilist.co/anime/125682/CUE/",
                 "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx125682-aJ1KNMq8wPvz.jpg"
+            },
+            {
+                "title": "20:45 - Dance Dance Danseur",
+                "description": "",
+                "editor": "CR",
+                "url": "https://anilist.co/anime/132171/Dance-Dance-Danseur/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132171-7eUhRXuzbR20.png"
             }
         ]
     },
@@ -222,46 +257,74 @@
         "day": "samedi",
         "animes": [
             {
-                "title": "16:00 - Shikkakumon no Saikyou Kenja",
-                "description": "The Strongest Sage with the Weakest Crest",
+                "title": "? - Shokei Shoujo no Virgin Road",
+                "description": "The Executioner and Her Way of Life",
+                "editor": "fansub",
+                "url": "https://anilist.co/anime/129193/Shokei-Shoujo-no-Virgin-Road/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129193-pT3W5PpiMAUB.png"
+            },
+            {
+                "title": "? - Paripi Koumei",
+                "description": "Ya Boy Kongming!",
+                "editor": "fansub",
+                "url": "https://anilist.co/anime/141774/Paripi-Koumei/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141774-KLjhJfLHQmxz.png"
+            },
+            {
+                "title": "12:00 - Love All Play",
+                "description": "",
+                "editor": "CR/ADN",
+                "url": "https://anilist.co/anime/137633/Love-All-Play/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137633-9XptAUT1djzm.jpg"
+            },
+            {
+                "title": "14:00 - Aoashi",
+                "description": "",
                 "editor": "CR",
-                "url": "https://anilist.co/anime/129191/Shikkakumon-no-Saikyou-Kenja/",
-                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129191-F80AgCUP79yE.jpg"
+                "url": "https://anilist.co/anime/134732/Aoashi/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx134732-KAXPnuRsqGCb.jpg"
             },
             {
-                "title": "17:30 - Sono Bisque Doll wa Koi wo Suru",
-                "description": "My Dress-Up Darling",
-                "editor": "CR/WKN",
-                "url": "https://anilist.co/anime/132405/Sono-Bisque-Doll-wa-Koi-wo-Suru/",
-                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132405-Iy6Lze5SOme8.jpg"
-            },
-            {
-                "title": "18:00 - Akebi-chan no Sailor Fuku",
-                "description": "Akebi’s Sailor Uniform",
-                "editor": "CR/WKN",
-                "url": "https://anilist.co/anime/131548/Akebichan-no-Sailor-Fuku/",
-                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131548-gc2z64TGWIH6.jpg"
-            },
-            {
-                "title": "18:30 - Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2",
-                "description": "How a Realist Hero Rebuilt the Kingdom Part 2",
+                "title": "16:30 - Love Live! Nijigasaki Gakuen School Idol Doukoukai 2",
+                "description": "My Dress-Up DarlingLove Live! Nijigasaki High School Idol Club Season 2",
                 "editor": "ADN",
-                "url": "https://anilist.co/anime/139648/Genjitsu-Shugi-Yuusha-no-Oukoku-Saikenki-Part-2/",
-                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139648-Gc88ZbCFeKCQ.jpg"
+                "url": "https://anilist.co/anime/133891/Love-Live-Nijigasaki-Gakuen-School-Idol-Doukoukai-2/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx133891-VzjX5rquZqd0.png"
             },
             {
-                "title": "20:30 - Ryman's Club",
-                "description": "Salaryman's Club",
+                "title": "17:30 - SPY×FAMILY",
+                "description": "",
                 "editor": "CR",
-                "url": "https://anilist.co/anime/140502/Rymans-Club/",
-                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140502-bWPNRDMlClxu.jpg"
+                "url": "https://anilist.co/anime/140960/SPYFAMILY/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140960-Yl5M3AiLZAMq.png"
             },
             {
-                "title": "20:45 - Kaijin Kaihatsubu no Kuroitsu-san",
-                "description": "Miss KUROITSU from the Monster Development Department",
+                "title": "18:00 - Kingdom 4",
+                "description": "",
+                "editor": "ADN",
+                "url": "https://anilist.co/anime/140350/Kingdom-4/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140350-Qf5IB0HxaJZf.jpg"
+            },
+            {
+                "title": "18:00 - Gunjou no Fanfare",
+                "description": "Fanfare of Adolescence",
                 "editor": "CR",
-                "url": "https://anilist.co/anime/136428/Kaijin-Kaihatsubu-no-Kuroitsusan/",
-                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136428-DYv9Q1IPg5cp.png"
+                "url": "https://anilist.co/anime/138452/Gunjou-no-Fanfare/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138452-p5PC80vESxaP.jpg"
+            },
+            {
+                "title": "18:30 - Kunoichi Tsubaki no Mune no Uchi",
+                "description": "In The Heart of Kunoichi Tsubaki",
+                "editor": "CR/ADN",
+                "url": "https://anilist.co/anime/141350/Kunoichi-Tsubaki-no-Mune-no-Uchi/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141350-APq0GpPyaQE4.jpg"
+            },
+            {
+                "title": "20:15 - Kawaii dake ja Nai Shikimori-san",
+                "description": "Shikimori's Not Just a Cutie",
+                "editor": "CR",
+                "url": "https://anilist.co/anime/127911/Kawaii-dake-ja-Nai-Shikimorisan/",
+                "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127911-nKrY6sdaflPK.jpg"
             }
         ]
     }
